@@ -1,0 +1,286 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+}
+.container{
+    max-width: 1584px;
+    margin: auto;
+    padding: 0 50px;
+}
+.banner{
+    padding-top: 230px;
+    min-height: 100vh;
+    background-image: url('../images/Tailor.jpg');
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.banner-wrapper .content{
+    max-width: 680px;
+    color: #fff;
+}
+.banner-wrapper h1{
+    font-size: 65px;
+}
+.banner-wrapper p{
+    font-size: 20px;
+    margin: 42px 0 62px;
+}
+.banner-btn{
+    color: #FFFFFF;
+    background-color: transparent;
+    border: 1px solid #62AC5F;
+    height: 53px;
+    width: 260px;
+}
+.want-to {
+    /* background-color: #025030; */
+    position: relative;
+    height: 176px;
+    /* opacity: 0.82; */
+    z-index: 1;
+    padding: 30px 0;
+
+    
+}
+.want-to:before {
+    content: '';
+    width: 100%;
+    height: 100%;
+    display: block;
+    position: absolute;
+    background-color: #025030;
+    opacity: 0.82;
+    z-index: -1;
+    top: 0;
+}
+.want-wrapper {
+    display: flex;
+    gap: 50px;
+    height: 100%;
+    align-items: center;
+    padding-top: 30px;
+}
+
+.want-heading h4 {
+    color: #fff;
+    font-size: 36px;
+    text-align: center;
+}
+.buy, .sell, .buy-and-sell, .audit {
+    width: calc(25% - 50px);
+    box-shadow: 0px 0px 8px #AAEAA8;
+    border: 1px solid #62AC5F;
+    padding: 10px;
+}
+.buy-content {
+    width: 60%;
+}
+.want-wrapper img {
+    width: 100%;
+    max-width: 60px;
+}
+.want-container{
+    height: 100%;
+    opacity: 1;
+    z-index: 2;
+}
+
+.arrow{
+    position: relative;
+    z-index: 0;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    left: 0;
+    top: 0;
+  }
+  .arrow-content {
+    position: absolute;
+    width: 30%;
+    left: 0;
+}
+  .v-div {
+    width: 0;
+    height: 0;
+    border-bottom: 88px solid transparent;
+    border-top: 88px solid transparent;
+    border-left: 70px solid #fff;
+}
+  
+.box {
+    height: 176px;
+    max-width: 470px;
+    width: 80%;
+    background: #fff;
+}
+.buy-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+}
+.buy-and-sell .buy-wrapper, .audit .buy-wrapper {
+    gap: 10px;
+}
+.buy-and-sell .buy-img, .audit .buy-img {
+    width: 35%;
+}
+.buy-and-sell .buy-content, .audit .buy-content{
+    width: 65%;
+}
+.buy-content h6 {
+    color: #fff;
+    font-size: 20px;
+}
+.buy-img {
+    width: 40%;
+    text-align: center;
+}
+
+
+.risk-audit{
+    padding: 90px 0;
+}
+.risk-audit-wrapper {
+    display: flex;
+    gap: 140px;
+    align-items: center;
+}
+.risk-video {
+    width: 50%;
+}
+.risk-video iframe{
+    border: 5px solid #FFFFFF;
+    box-shadow: 0px 0px 12px #00000065;
+}
+.risk-content {
+    width: 50%;
+    /* width: calc(50% - 25px); */
+}
+.risk-content h2 {
+    font-size: 36px;
+    color: #025030;
+    margin-bottom: 40px;
+}
+.risk-content p {
+    font-size: 16px;
+    color: #707070;
+    margin: 20px 0;
+}
+
+.guidence{
+    padding: 65px 0;
+    background-color: #F7F7F7;
+}
+.guidence .container{
+    max-width: 1088px;
+}
+.quote h3{
+    font-size: 36px;
+    color: #62AC5F;
+    font-weight: 400;
+    text-align: center;
+}
+.cite{
+    padding-top: 50px;
+}
+.cite h6{
+    font-size: 16px;
+    color: #025030;
+    text-transform: capitalize;
+    text-align: center;
+}
+.key-services{
+    padding: 100px 0;
+}
+.key-services h2{
+    font-size: 36px;
+    color: #025030;
+    font-weight: 400;
+    text-align: center;
+}
+
+.service-card{
+    width: 25%;;
+    padding: 35px 20px;
+    box-shadow: 0px 0px 10px #00000026;
+border-radius: 10px;
+display: flex;
+gap: 20px;
+}
+.service-card-wrapper{
+    display: flex;
+    gap: 15px;
+    padding-top: 40px;
+}
+.card-content h4{
+    font-size: 20px;
+    color: #1E1E1E;
+}
+.card-content p{
+    padding-top: 8px;
+    min-height: 110px;
+    font-size: 16px;
+    color: #1E1E1E;
+}
+.card-content button{
+    font-size: 16px;
+    color: #1E1E1E;
+    background-color: transparent;
+    border: 1px solid #62AC5F;
+    padding: 10px 40px;
+}
+
+
+.awards-nominations{
+    padding: 50px 0;
+}
+.award-card-heading {
+    padding-bottom: 50px;
+    text-align: center;
+}
+.awards-main {
+    display: flex;
+    gap: 50px;
+    flex-wrap: wrap;
+}
+.award-card {
+    width: calc(50% - 73px);
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 24px;
+    min-height: 100%;
+    box-shadow: 2px 2px 10px 0px rgba(85,85,85,0.4);
+}
+.award-card ul{
+    list-style: none;
+}
+.award-card h5 {
+    font-size: 24.624px;
+    text-align: center;
+}
+.award-card ul{
+    margin-top: 1.25rem;
+}
+.award-card li {
+    color: #555;
+}
+
+
+
+.feature-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+    align-items: center;
+}
+.feature-img, .feature-content {
+    width: calc(50% - 50px);
+}
+.feature-img img {
+    width: 100%;
+}

@@ -1,0 +1,178 @@
+ <section class="banner">
+        <div class="banner-wrapper">
+            <div class="container">
+                <div class="content">
+                    <h1>
+                        <span style="color:#62AC5F;">Tailor made</span> Currency Risk & International Payments
+                    </h1>
+                    <p>
+                        At Central FX we help our clients to manage their currency risk and international payments
+                        by
+                        understanding the core factors that are unique to their business and developing a currency
+                        risk
+                        strategy.
+                    </p>
+                    <a href="">
+                        <button class="banner-btn"> OPEN AN ACCOUNT </button>
+                    </a>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="want-to">
+            <div class="container">
+                <div class="want-heading">
+                    <h4>I want to</h4>
+                </div>
+                <div class="want-wrapper">
+                    <div class="buy">
+                        <a href="#" class="want-box-link">
+                            <div class="buy-wrapper">
+                                <div class="buy-img">
+                                    <img src="assets/images/buy2.png" alt="">
+                                </div>
+                                <div class="buy-content">
+                                    <h6>
+                                        Buy Currencies
+                                    </h6>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="sell">
+                        <a href="#" class="want-box-link">
+                            <div class="buy-wrapper">
+                                <div class="buy-img">
+                                    <img src="assets/images/sell2.png" alt="">
+                                </div>
+                                <div class="buy-content">
+                                    <h6>
+                                        SELL Currencies
+                                    </h6>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="buy-and-sell">
+                        <a href="#" class="want-box-link">
+                            <div class="buy-wrapper">
+                                <div class="buy-img">
+                                    <img src="assets/images/buy-sell2.png" alt="">
+                                </div>
+                                <div class="buy-content">
+                                    <h6>
+                                        BUY & SELL Currencies
+                                    </h6>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="audit">
+                        <a href="#" class="want-box-link">
+                            <div class="buy-wrapper">
+                                <div class="buy-img">
+                                    <img src="assets/images/managing-currency-risk.png" alt="">
+                                </div>
+                                <div class="buy-content">
+                                    <h6>
+                                        AUDIT & MANAGE Risk
+                                    </h6>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="awards-nominations">
+        <div class="container">
+            <div class="award-card-heading">
+                <h2>Awards - Nominations and Winners</h2>
+            </div>
+            <div class="awards-main">
+                <div class="award-card">       
+                    <div class="award-card-heading-content">
+                        <a href="#" class="award-card-link">
+                            <div class="panel">
+                                <h5>2020</h5>
+                                <ul>
+                                    <li>Telegraph Awards (Winner) - Best FX provider in 2011</li>
+                                    <li>CFI Awards –(Winner) Best Currency Risk Management Partner, UK 2020</li>
+                                    <li>Brand Awards – (Finalist) Best Outsourced Risk Management </li>
+                                    <li>Partner, United Kingdom 2020</li>
+                                    <li>Brand Awards – (Winner) Best Currency & Payments Provider, United Kingdom 2020
+                                    </li>
+                                </ul>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="award-card">       
+                    <div class="award-card-heading-content">
+                        <a href="#" class="award-card-link">
+                            <div class="panel">
+                                <h5>2021</h5>
+                                <ul>
+                                    <li>Brand Awards – (Finalist) Best Currency & Payments Provider, United Kingdom 2021</li>
+                                    <li>City of London Wealth Management Awards (Shortlisted) – Best FX Service Provider 2021</li>
+                                    <li>World Business Outlook – (Winner) Most Recommended Currency and Payments Provider UK 2021</li>
+                                    <li>World Business Outlook – (Winner) Best Forex Service Provider UK 2021</li>
+                                    <li>World Business Outlook – (Winner) Best Currency Risk Management Partner UK 2021</li>
+                                </ul>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="award-card">       
+                    <div class="award-card-heading-content">
+                        <a href="#" class="award-card-link">
+                            <div class="panel">
+                                <h5>2022</h5>
+                                <ul>
+                                    <li>City of London Wealth Management Awards (Nominee) – Best FX Service Provider 2022</li>
+                                    <li>SME News’ 2022 Business Elite Awards – (Winner) – Leading Specialists in Corporate Foreign Exchange, 2022</li>
+                                    <li>Global 100 – 2022 – (Winner) – Leading Specialists in Corporate Foreign Exchange 2022 – UK</li>
+                                    <li>International Business Magazine Awards – 2022 – (Nominee) – Most Innovative Payment Solutions Provider, UK, 2022</li>
+                                    <li>International Business Magazine Awards – 2022 – (Winner) – Best Currency Risk Management Partner UK, 2022</li>
+                                    <li>International Business Magazine Awards – 2022 – (Winner) – Best Forex Service Provider UK, 2022</li>
+                                    <li>The Legal 100 – 2022 – (Winner) – Leading Specialists in Corporate Foreign Exchange 2022, UK</li>
+                                    <li>World Business Outlook Awards – (Winner) Most Recommended Currency and Payments Provider UK 2022</li>
+                                    <li>World Business Outlook Awards – (Winner) Best Forex Service Provider UK 2022</li>
+                                    <li>World Business Outlook Awards – (Winner) Best Currency Risk Management Partner UK 2022</li>
+                                </ul>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="award-card">       
+                    <div class="award-card-heading-content">
+                        <a href="#" class="award-card-link">
+                            <div class="panel">
+                                <h5>2023</h5>
+                                <ul>
+                                    <li>International Business Magazine Awards – 2023 – (Nominee) </li>
+                                    <li>Most Innovative Payment Solutions Provider UK 2023</li>
+                                    <li>International Business Magazine Awards – 2023 – (Nominee)</li>
+                                    <li>Best Currency Risk Management Partner UK 2023</li>
+                                    <li>International Business Magazine Awards – 2023 – (Nominee) </li>
+                                    <li>Best Forex  Service Provider UK 2023</li>
+                                    <li>World Business Outlook Awards – (Winner)</li>
+                                    <li>Most Recommended Currency and Payments Provider UK 2023</li>
+                                    <li>World Business Outlook Awards – (Winner) Best Forex Service Provider UK 2023</li>
+                                    <li>World Business Outlook Awards – (Winner) Best Currency Risk Management Partner UK 2023</li>
+                                    <li>City of London Wealth Management Awards (Shortlisted) – Best FX Service Provider 2023</li>
+                                    <li>Global Business and Finance Magazine Awards – 2023 – (Nominee) - Most Recommended Currency and Payments Provider UK 2023</li>
+                                    <li>Global Business and Finance Magazine Awards – 2023 – (Nominee)- Best Forex Service Provider UK 2023</li>
+                                    <li>Global Business and Finance Magazine Awards – 2023 – (Nominee) Best Currency Risk Management Partner UK 2023</li>
+                                    <li>Brands and Business Magazine 2023 – (Nominee) -  Best Trading Platform, United Kingdom 2023 </li>
+                                    <li>Brands and Business Magazine 2023 – (Nominee) -  Best Partner Program, United Kingdom 2023  </li>
+                                </ul>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>

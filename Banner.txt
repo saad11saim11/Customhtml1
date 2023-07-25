@@ -1,0 +1,88 @@
+<section class="banner">
+        <div class="banner-wrapper">
+            <div class="container">
+                <div class="content">
+                    <h1>
+                        <span style="color:#62AC5F;">Tailor made</span> Currency Risk & International Payments
+                    </h1>
+                    <p>
+                        At Central FX we help our clients to manage their currency risk and international payments
+                        by
+                        understanding the core factors that are unique to their business and developing a currency
+                        risk
+                        strategy.
+                    </p>
+                    <a href="">
+                        <button class="banner-btn"> OPEN AN ACCOUNT </button>
+                    </a>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="want-to">
+            <div class="container">
+                <div class="want-heading">
+                    <h4>I want to</h4>
+                </div>
+                <div class="want-wrapper">
+                    <div class="buy">
+                        <a href="#" class="want-box-link">
+                            <div class="buy-wrapper">
+                                <div class="buy-img">
+                                    <img src="assets/images/buy2.png" alt="">
+                                </div>
+                                <div class="buy-content">
+                                    <h6>
+                                        Buy Currencies
+                                    </h6>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="sell">
+                        <a href="#" class="want-box-link">
+                            <div class="buy-wrapper">
+                                <div class="buy-img">
+                                    <img src="assets/images/sell2.png" alt="">
+                                </div>
+                                <div class="buy-content">
+                                    <h6>
+                                        SELL Currencies
+                                    </h6>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="buy-and-sell">
+                        <a href="#" class="want-box-link">
+                            <div class="buy-wrapper">
+                                <div class="buy-img">
+                                    <img src="assets/images/buy-sell2.png" alt="">
+                                </div>
+                                <div class="buy-content">
+                                    <h6>
+                                        BUY & SELL Currencies
+                                    </h6>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="audit">
+                        <a href="#" class="want-box-link">
+                            <div class="buy-wrapper">
+                                <div class="buy-img">
+                                    <img src="assets/images/managing-currency-risk.png" alt="">
+                                </div>
+                                <div class="buy-content">
+                                    <h6>
+                                        AUDIT & MANAGE Risk
+                                    </h6>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
